@@ -3,13 +3,13 @@ This is the implement of "[Implicit Neural Representation Learning for Hyperspec
 ## Implicit Neural Representation Learning
 
 <p align = "center">    
-<img  src="https://github.com/kaviezhang/INR-HSISR/blob/main/result/intro.png" width="600" />
+<img  src="https://github.com/kaviezhang/INR-HSISR/blob/main/result/intro.png" width="300" />
 </p>
 
 ## Model Architecture
 
 <p align = "center">    
-<img  src="https://github.com/kaviezhang/INR-HSISR/blob/main/result/inr.png" width="600" />
+<img  src="https://github.com/kaviezhang/INR-HSISR/blob/main/result/inr.png" width="500" />
 </p>
 
 
