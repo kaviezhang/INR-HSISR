@@ -1,5 +1,6 @@
 # INR-HSISR
 This is the implement of "[Implicit Neural Representation Learning for Hyperspectral Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9991174)" on CAVE Dataset.
+
 ## Implicit Neural Representation Learning
 
 <p align = "center">    
@@ -9,7 +10,7 @@ This is the implement of "[Implicit Neural Representation Learning for Hyperspec
 ## Model Architecture
 
 <p align = "center">    
-<img  src="https://github.com/kaviezhang/INR-HSISR/blob/main/result/inr.png" width="500" />
+<img  src="https://github.com/kaviezhang/INR-HSISR/blob/main/result/inr.png" width="600" />
 </p>
 
 
