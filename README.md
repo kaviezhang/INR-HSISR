@@ -12,6 +12,11 @@ This is the implement of "[Implicit Neural Representation Learning for Hyperspec
 <img  src="https://github.com/kaviezhang/INR-HSISR/blob/main/result/inr.png" width="600" />
 </p>
 
+
+
+## Citation
+- If you find this code useful, please consider citing
+```
 @article{zhang2022implicit,
   title={Implicit neural representation learning for hyperspectral image super-resolution},
   author={Zhang, Kaiwei and Zhu, Dandan and Min, Xiongkuo and Zhai, Guangtao},
@@ -21,3 +26,4 @@ This is the implement of "[Implicit Neural Representation Learning for Hyperspec
   year={2022},
   publisher={IEEE}
 }
+```
